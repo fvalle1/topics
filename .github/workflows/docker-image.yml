@@ -26,7 +26,7 @@ jobs:
         # Docker repository to tag the image with
         repository: docker.pkg.github.com/fvalle1/topics/topicmodel
         # Comma-delimited list of tags. These will be added to the registry/repository to form the image's tags
-        tags: $(date +%s) # optional
+        tags: # optional
         # Automatically tags the built image with the git reference as per the readme
         tag_with_ref: # optional
         # Automatically tags the built image with the git short SHA as per the readme
