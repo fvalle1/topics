@@ -7,7 +7,7 @@ import numpy as np
 from sklearn.decomposition import LatentDirichletAllocation
 import pandas as pd
 import tensorflow as tf
-from hsbmpy import get_file
+from topicpy.hsbmpy import get_file
 
 
 def kullbach_liebler(theta_k, theta_l):

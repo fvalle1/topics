@@ -1,3 +1,5 @@
+![Docker Image CI](https://github.com/fvalle1/topics/workflows/Docker%20Image%20CI/badge.svg?branch=master)
+
 # topics
 Material for ** [link](arxiv.org/)
 
@@ -17,3 +19,9 @@ docker run -v $PWD:/home/jovyan/work -p 8888:8888 --rm -it docker.pkg.github.com
 ```
 
 then point your browser to [localhost](localhost:8888)
+
+# Package
+A test package can be downloaded from [https://test.pypi.org/project/topicpy/](https://test.pypi.org/project/topicpy/)
+```bash
+pip install -i https://test.pypi.org/simple/ topicpy
+```

@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from tacos_plot import scatterdense
+from topicpy.tacos_plot import scatterdense
 from scipy import stats as st
 from scipy import stats
 import os
@@ -249,7 +249,7 @@ def getovergenes(df_mv, func, method='sampling', distance=10, how_many_sigmas=3,
         log_bins_for_x = np.logspace(np.log10(df_mv['mean'][df_mv['mean']!=0].min()),5,25)
         cv2=df_mv['variance']/df_mv['mean']/df_mv['mean']
         bin_means,bin_edges ,_ = st.binned_statistic(df_mv['mean'], cv2, statistic='mean', bins=log_bins_for_x)
-        bin_sigmas, _ ,_ = st.binned_statistic(df_mv['mean'], cv2,statistic='std', bins=log_bins_for_x)          
+        bin_sigmas, _ ,_ = st.binned_statistic(df_mv['mean'], cv2,statistic='std', bins=log_bins_for_x)
     for g in df_mv.index:
         subdf = df_mv.loc[g,:]
         mean = float(subdf['mean'])

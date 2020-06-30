@@ -28,7 +28,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from tableanalyser import get_symbol
+from topicpy.tableanalyser import get_symbol
 
 
 def get_ontology_df(topic, cutoff=0.05, threshhold=5e-1, gene_sets = ['GO_Molecular_Function_2018',
