@@ -1,0 +1,4 @@
+[submodule "hSBM_Topicmodel"]
+	path = hSBM_Topicmodel
+	url = git@github.com:fvalle1/hSBM_Topicmodel.git
+	branch = develop_share
