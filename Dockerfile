@@ -1,5 +1,7 @@
 FROM jupyter/datascience-notebook
 
+LABEL maintainer="filippo.valle@unito.it"
+
 USER root
 RUN apt-get update
 RUN apt-get install sudo apt-utils --yes
