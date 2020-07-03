@@ -1,11 +1,5 @@
 # Download the data and run hsbm
 
-## Get data from TCGA
-
-[TCGA_GetManifest.ipynb](TCGA_GetManifest.ipynb)
-
-[Table_Creation.ipynb](Table_Creation.ipynb)
-
 ## Get data from GTex and run hSBM
 [run_graph.ipynb](run_graph.ipynb)
 
@@ -56,3 +50,5 @@ with open("topsbm.pkl","rb") as file:
 
 ## mixtures
 [hSBM_topic-dist.ipynb](hSBM_topic-dist.ipynb)
+
+## Plot tree

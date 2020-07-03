@@ -131,3 +131,5 @@ dmypy.json
 *.pdf
 */.DS_Store
 */Enrichr/*
+*.png
+*.tsv
