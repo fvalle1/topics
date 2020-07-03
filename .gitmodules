@@ -2,3 +2,6 @@
 	path = hSBM_Topicmodel
 	url = git@github.com:fvalle1/hSBM_Topicmodel.git
 	branch = develop_share
+[submodule "tree_plotter"]
+	path = tree_plotter
+	url = git@github.com:fvalle1/tree_plotter
