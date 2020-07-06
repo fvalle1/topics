@@ -1,5 +1,7 @@
 FROM jupyter/datascience-notebook
 
+LABEL maintainer="filippo.valle@unito.it"
+
 USER root
 RUN apt-get update
 RUN apt-get install sudo apt-utils --yes
@@ -25,6 +27,9 @@ RUN apt-get update \
   && python3 -m pip install --upgrade pip
 
 #install Python3.6 kernel
+RUN apt-get install -y software-properties-common
+RUN add-apt-repository ppa:deadsnakes/ppa
+RUN apt-get update && apt-get install -y build-essential python3.6 python3.6-dev python3-pip python3.6-venv
 RUN python3.6 -m pip install --no-cache-dir -U pip
 RUN python3.6 -m pip install --no-cache-dir ipykernel
 RUN python3.6 -m ipykernel install --name Python3.6
