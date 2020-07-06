@@ -38,7 +38,7 @@ RUN python3.6 -m ipykernel install --name Python3.6
 COPY requirements.txt /home/jovyan
 
 RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
-RUN python3 -m pip install --no-cache-dir -r requirements.txt
+RUN python3.6 -m pip install --no-cache-dir -r requirements.txt
 
 # get gdc-client for TCGA downloads
 
