@@ -55,4 +55,3 @@ WORKDIR /home/jovyan/work
 
 ENTRYPOINT jupyter lab
 CMD [""]
-f
