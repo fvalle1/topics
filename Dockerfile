@@ -40,6 +40,7 @@ COPY requirements.txt /home/jovyan
 RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
 RUN python3.6 -m pip install --no-cache-dir -r requirements.txt
 RUN python3.6 -m pip install --force-reinstall  numpy
+RUN python3.6 -m pip uninstall Pillow -y
 
 # get gdc-client for TCGA downloads
 
