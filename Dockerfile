@@ -26,6 +26,11 @@ RUN apt-get update \
   && ln -s /usr/bin/python3 python \
   && python3 -m pip install --upgrade pip
 
+#install Python3.6 kernel
+RUN python3.6 -m pip install --no-cache-dir -U pip
+RUN python3.6 -m pip install --no-cache-dir ipykernel
+RUN python3.6 -m ipykernel install --name Python3.6
+
 # install project requirements
 COPY requirements.txt /home/jovyan
 
