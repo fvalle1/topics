@@ -52,3 +52,14 @@ with open("topsbm.pkl","rb") as file:
 [hSBM_topic-dist.ipynb](hSBM_topic-dist.ipynb)
 
 ## Plot tree
+
+[tree_plotter/plot_tree.ipynb](tree_plotter/plot_tree.ipynb)
+
+# Predict unseen samples
+
+[predictor.ipynb](predictor.ipynb)
+
+That Notebook can be run on Colab:
+- predicting status (**health** / **tumor**) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1vS3aAG-2falzRHuqnzyVL53vUzkAC31-/view?usp=sharing)
+
+- predicting **sites** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cIO0u92uZ6sp95ceRlBFA4ccBWZWN95g?usp=sharingg)
