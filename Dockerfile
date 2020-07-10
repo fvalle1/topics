@@ -27,6 +27,9 @@ RUN apt-get update \
   && python3 -m pip install --upgrade pip
 
 #install Python3.6 kernel
+RUN apt-get install -y software-properties-common
+RUN add-apt-repository ppa:deadsnakes/ppa
+RUN apt-get update && apt-get install -y build-essential python3.6 python3.6-dev python3-pip python3.6-venv
 RUN python3.6 -m pip install --no-cache-dir -U pip
 RUN python3.6 -m pip install --no-cache-dir ipykernel
 RUN python3.6 -m ipykernel install --name Python3.6
@@ -35,7 +38,9 @@ RUN python3.6 -m ipykernel install --name Python3.6
 COPY requirements.txt /home/jovyan
 
 RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
-RUN python3 -m pip install --no-cache-dir -r requirements.txt
+RUN python3.6 -m pip install --no-cache-dir -r requirements.txt
+RUN python3.6 -m pip install --force-reinstall  numpy
+RUN python3.6 -m pip uninstall Pillow -y
 
 # get gdc-client for TCGA downloads
 
