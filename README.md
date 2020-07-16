@@ -5,6 +5,8 @@ Material for ** [link](arxiv.org/)
 
 See [analyses](analyses.md) to follow all the steps to reproduce the analyses
 
+![](bipartite_network.svg)
+
 # Environment
 The easiest way to run all the notebooks of this repository with all dependencies handled correctly is using Docker.
 
