@@ -133,3 +133,5 @@ dmypy.json
 */Enrichr/*
 *.png
 *.tsv
+setup.py
+test.py
