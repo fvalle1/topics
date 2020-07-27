@@ -1,10 +1,10 @@
-import  topicpy.tacos_plot as tacos_plot
-from  topicpy.hsbmpy import *
-from  topicpy.tableanalyser import *
-from  topicpy.TCGA_files import *
-from  topicpy.gtex import *
-from  topicpy.hypergeom import *
-from  topicpy.lda import *
-from  topicpy.geneontology import *
+import topicpy.geneontology
+import topicpy.gtex
+import topicpy.hsbmpy
+import topicpy.hypergeom
+import topicpy.lda
+import topicpy.tableanalyser
+import topicpy.tacos_plot
+import topicpy.TCGA_files
 
-__version__="1.0.0"
+__version__="1.1.0"
