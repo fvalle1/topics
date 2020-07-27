@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="topicpy", # Replace with your own username
-    version="1.0.0",
+    version="1.1.1",
     author="Filippo Valle",
     author_email="filippo.valle@unito.it",
     description="Package to extract information from topic models.",
