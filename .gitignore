@@ -140,3 +140,4 @@ test.py
 *.svg
 *.pkl
 *.txt
+*.part
