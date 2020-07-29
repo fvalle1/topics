@@ -141,3 +141,5 @@ test.py
 *.pkl
 *.txt
 *.part
+pkg/
+*.zip
