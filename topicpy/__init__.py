@@ -6,5 +6,6 @@ import topicpy.lda
 import topicpy.tableanalyser
 import topicpy.tacos_plot
 import topicpy.TCGA_files
+import topicpy.converter
 
 __version__="1.1.0"
