@@ -14,3 +14,4 @@ watermark
 gseapy
 sklearn
 seaborn
+--extra-index https://test.pypi.org/simple/ topicpy
