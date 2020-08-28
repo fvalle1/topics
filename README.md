@@ -3,9 +3,9 @@
 # topics
 Material for ** [link](arxiv.org/)
 
-See [analyses](analyses.md) to follow all the steps to reproduce the analyses
+See **[analyses](analyses.md)** to follow all the steps to reproduce the analyses
 
-![](bipartite_network.png)
+![bipartite_network](bipartite_network.png)
 
 # Environment
 The easiest way to run all the notebooks of this repository with all dependencies handled correctly is using Docker.
@@ -23,7 +23,8 @@ docker run -v $PWD:/home/jovyan/work -p 8888:8888 --rm -it --name topic_models d
 then point your browser to [localhost](localhost:8888)
 
 # Package
-A test package can be downloaded from [https://test.pypi.org/project/topicpy/](https://test.pypi.org/project/topicpy/)
+A Python package with used functions can be downloaded from [https://test.pypi.org/project/topicpy/](https://test.pypi.org/project/topicpy/)
 ```bash
 pip install -i https://test.pypi.org/simple/ topicpy
 ```
+This package is still in beta
