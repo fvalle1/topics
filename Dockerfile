@@ -34,13 +34,17 @@ RUN python3.6 -m pip install --no-cache-dir -U pip
 RUN python3.6 -m pip install --no-cache-dir ipykernel
 RUN python3.6 -m ipykernel install --name Python3.6
 
+RUN python3.6 -m pip install --force-reinstall  numpy
+RUN python3.6 -m pip install --no-cache-dir watermark scanpy pandas
+
 # install project requirements
 COPY requirements.txt /home/jovyan
 
 RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
-RUN python3.6 -m pip install --no-cache-dir -r requirements.txt
-RUN python3.6 -m pip install --force-reinstall  numpy
-RUN python3.6 -m pip uninstall Pillow -y
+RUN python3 -m pip install --no-cache-dir -r requirements.txt
+RUN python3 -m pip uninstall Pillow -y
+RUN python3 -m pip install --no-cache-dir matplotlib
+RUN python3 -m pip install --no-cache-dir --extra-index https://test.pypi.org/simple/ topicpy
 
 # get gdc-client for TCGA downloads
 
