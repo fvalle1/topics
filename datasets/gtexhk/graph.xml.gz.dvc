@@ -1,0 +1,3 @@
+outs:
+- md5: 2ebb5c4fe29d26adda3bca5361c4e09e
+  path: graph.xml.gz

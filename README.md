@@ -22,6 +22,12 @@ docker run -v $PWD:/home/jovyan/work -p 8888:8888 --rm -it --name topic_models d
 
 then point your browser to [localhost](localhost:8888)
 
+# Data
+The data processed in our analysis when not available trough git ca ìn be accessed via [DataVersionControl](https://dvc.org)
+```bash
+dvc pull
+```
+
 # Package
 A Python package with used functions can be downloaded from [https://test.pypi.org/project/topicpy/](https://test.pypi.org/project/topicpy/)
 ```bash
