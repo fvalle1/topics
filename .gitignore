@@ -143,3 +143,9 @@ test.py
 *.part
 pkg/
 *.zip
+datasets/gtex10/topsbm-log10/mainTable.csv
+datasets/gtexhk/mainTable.csv
+datasets/gtexrandom/mainTable.csv
+datasets/gtex10/mainTable.csv
+datasets/gtexall/mainTable.csv
+/HK_exons.xlsx
