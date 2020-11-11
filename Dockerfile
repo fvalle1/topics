@@ -44,7 +44,7 @@ RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
 RUN python3 -m pip install --no-cache-dir -r requirements.txt
 RUN python3 -m pip uninstall Pillow -y
 RUN python3 -m pip install --no-cache-dir matplotlib
-RUN python3 -m pip install --no-cache-dir --extra-index https://test.pypi.org/simple/ topicpy
+
 
 # get gdc-client for TCGA downloads
 
