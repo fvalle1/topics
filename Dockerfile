@@ -53,6 +53,10 @@ RUN unzip gdc-client_v1.5.0_Ubuntu_x64.zip
 RUN mv gdc-client /usr/local/bin
 RUN rm -f gdc-client_v1.5.0_Ubuntu_x64.zip
 
+#R files
+COPY install_pkgs.R /home/jovyan
+RUN Rscript install_pkgs.R
+
 ENV PYTHONIOENCODING=utf8
 
 USER jovyan
