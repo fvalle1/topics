@@ -54,6 +54,7 @@ RUN mv gdc-client /usr/local/bin
 RUN rm -f gdc-client_v1.5.0_Ubuntu_x64.zip
 
 #R files
+RUN apt-get install libgit2-dev --yes
 COPY install_pkgs.R /home/jovyan
 RUN Rscript install_pkgs.R
 

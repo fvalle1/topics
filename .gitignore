@@ -149,3 +149,5 @@ datasets/gtexrandom/mainTable.csv
 datasets/gtex10/mainTable.csv
 datasets/gtexall/mainTable.csv
 /HK_exons.xlsx
+.RData
+.Rhistory
