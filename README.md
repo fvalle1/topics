@@ -1,4 +1,4 @@
-![Docker Image CI](https://github.com/fvalle1/topics/workflows/Docker%20Image%20CI/badge.svg?branch=master)
+![Docker Image CI](https://github.com/fvalle1/topics/workflows/Docker%20Image%20CI/badge.svg)
 
 # topics
 Material for ** [link](arxiv.org/)
