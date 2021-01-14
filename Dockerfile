@@ -11,31 +11,15 @@ RUN ln -fs /usr/share/zoneinfo/Europe/Rome /etc/localtime
 RUN apt-get install -y tzdata
 RUN dpkg-reconfigure --frontend noninteractive tzdata
 
-# install graph-tool
-RUN apt-get install gnupg --yes
-RUN apt-get install libboost-all-dev --yes
-
-RUN echo "deb http://downloads.skewed.de/apt focal main" >> /etc/apt/sources.list
-RUN echo "deb-src http://downloads.skewed.de/apt/ focal main" >> /etc/apt/sources.list
-RUN apt-key adv --keyserver keys.openpgp.org --recv-key 612DEFB798507F25 > /dev/null 2>&1
-RUN apt-get update && apt-get install python3-graph-tool python3-cairo --yes
-
 RUN apt-get update \
   && apt-get install -y python3-pip python3-dev \
   && cd /usr/local/bin \
   && ln -s /usr/bin/python3 python \
   && python3 -m pip install --upgrade pip
 
-#install Python3.6 kernel
-RUN apt-get install -y software-properties-common
-RUN add-apt-repository ppa:deadsnakes/ppa
-RUN apt-get update && apt-get install -y build-essential python3.6 python3.6-dev python3-pip python3.6-venv
-RUN python3.6 -m pip install --no-cache-dir -U pip
-RUN python3.6 -m pip install --no-cache-dir ipykernel
-RUN python3.6 -m ipykernel install --name Python3.6
-
-RUN python3.6 -m pip install --force-reinstall  numpy
-RUN python3.6 -m pip install --no-cache-dir watermark scanpy pandas
+# install graph-tool
+RUN conda install -c conda-forge mamba -y
+RUN mambda install -c conda-forge graph-tool -y 
 
 # install project requirements
 COPY requirements.txt /home/jovyan
@@ -47,7 +31,6 @@ RUN python3 -m pip install --no-cache-dir matplotlib
 
 
 # get gdc-client for TCGA downloads
-
 RUN wget https://gdc.cancer.gov/system/files/authenticated%20user/0/gdc-client_v1.5.0_Ubuntu_x64.zip
 RUN unzip gdc-client_v1.5.0_Ubuntu_x64.zip
 RUN mv gdc-client /usr/local/bin
