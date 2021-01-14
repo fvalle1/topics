@@ -19,7 +19,7 @@ RUN apt-get update \
 
 # install graph-tool
 RUN conda install -c conda-forge mamba -y
-RUN mambda install -c conda-forge graph-tool -y 
+RUN mamba install -c conda-forge graph-tool -y 
 
 # install project requirements
 COPY requirements.txt /home/jovyan
