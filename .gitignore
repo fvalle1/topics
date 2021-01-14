@@ -151,3 +151,4 @@ datasets/gtexall/mainTable.csv
 /HK_exons.xlsx
 .RData
 .Rhistory
+.vscode
