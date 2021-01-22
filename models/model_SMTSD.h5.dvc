@@ -1,4 +1,4 @@
 outs:
-- md5: e687ddab3f90f24e000f8b7127ef7223
-  size: 2234128
+- md5: de4e2eb17ffd78f247707760a1af4e54
+  size: 272528
   path: model_SMTSD.h5
