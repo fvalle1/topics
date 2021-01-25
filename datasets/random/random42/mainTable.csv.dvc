@@ -1,4 +1,4 @@
 outs:
 - md5: 053937c2dac3123f9dfdee827a2a7790
   size: 21845449
-  path: mainTable_random_42.csv
+  path: mainTable.csv
