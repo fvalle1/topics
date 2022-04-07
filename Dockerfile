@@ -31,10 +31,10 @@ RUN python3 -m pip install --no-cache-dir matplotlib
 
 
 # get gdc-client for TCGA downloads
-RUN wget https://gdc.cancer.gov/system/files/authenticated%20user/0/gdc-client_v1.5.0_Ubuntu_x64.zip
-RUN unzip gdc-client_v1.5.0_Ubuntu_x64.zip
+RUN wget https://gdc.cancer.gov/files/public/file/gdc-client_v1.6.1_Ubuntu_x64.zip
+RUN unzip gdc-client_v1.6.1_Ubuntu_x64.zip
 RUN mv gdc-client /usr/local/bin
-RUN rm -f gdc-client_v1.5.0_Ubuntu_x64.zip
+RUN rm -f gdc-client_v1.6.1_Ubuntu_x64.zip
 
 #R files
 RUN apt-get install libgit2-dev --yes
