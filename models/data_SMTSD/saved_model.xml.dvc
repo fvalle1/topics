@@ -1,4 +1,0 @@
-outs:
-- md5: 415c2bce3f5edb32085c07b3dd538b5d
-  size: 6368
-  path: saved_model.xml
