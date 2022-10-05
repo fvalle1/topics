@@ -1,4 +1,4 @@
-scipy==1.4.1
+scipy==1.9.1
 numpy
 gobject
 matplotlib
@@ -14,4 +14,4 @@ watermark
 gseapy
 sklearn
 seaborn
---extra-index https://test.pypi.org/simple/ topicpy
+topicpy
