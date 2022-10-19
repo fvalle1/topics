@@ -1,0 +1,1000 @@
+subtissue,tissue,l0,l1,l2,l3
+Brain - Cortex,Brain,1,1,1,0
+Brain - Caudate (basal ganglia),Brain,2,1,1,0
+Brain - Caudate (basal ganglia),Brain,2,1,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,3,1,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,4,1,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,4,1,1,0
+Brain - Caudate (basal ganglia),Brain,5,1,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,6,1,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,6,1,1,0
+Brain - Caudate (basal ganglia),Brain,7,1,1,0
+Brain - Frontal Cortex (BA9),Brain,8,1,1,0
+Brain - Frontal Cortex (BA9),Brain,8,1,1,0
+Brain - Cortex,Brain,9,1,1,0
+Brain - Cortex,Brain,10,1,1,0
+Brain - Frontal Cortex (BA9),Brain,10,1,1,0
+Brain - Cortex,Brain,11,1,1,0
+Brain - Caudate (basal ganglia),Brain,12,1,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,13,1,1,0
+Brain - Caudate (basal ganglia),Brain,14,1,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,15,1,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,16,1,1,0
+Brain - Frontal Cortex (BA9),Brain,16,1,1,0
+Brain - Putamen (basal ganglia),Brain,17,1,1,0
+Brain - Caudate (basal ganglia),Brain,18,1,1,0
+Brain - Hypothalamus,Brain,19,2,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,19,2,1,0
+Brain - Caudate (basal ganglia),Brain,20,2,1,0
+Brain - Cortex,Brain,21,2,1,0
+Brain - Hippocampus,Brain,22,2,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,23,2,1,0
+Brain - Putamen (basal ganglia),Brain,23,2,1,0
+Brain - Spinal cord (cervical c-1),Brain,24,2,1,0
+Brain - Hippocampus,Brain,25,2,1,0
+Brain - Hippocampus,Brain,25,2,1,0
+Brain - Putamen (basal ganglia),Brain,26,2,1,0
+Brain - Hypothalamus,Brain,27,2,1,0
+Brain - Hippocampus,Brain,28,2,1,0
+Brain - Hippocampus,Brain,29,2,1,0
+Brain - Caudate (basal ganglia),Brain,30,2,1,0
+Brain - Caudate (basal ganglia),Brain,31,2,1,0
+Brain - Amygdala,Brain,32,2,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,33,2,1,0
+Brain - Hypothalamus,Brain,34,2,1,0
+Brain - Amygdala,Brain,35,2,1,0
+Brain - Hypothalamus,Brain,36,2,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,37,2,1,0
+Brain - Substantia nigra,Brain,38,2,1,0
+Brain - Putamen (basal ganglia),Brain,39,2,1,0
+Brain - Amygdala,Brain,40,2,1,0
+Brain - Cortex,Brain,41,2,1,0
+Brain - Spinal cord (cervical c-1),Brain,42,2,1,0
+Brain - Frontal Cortex (BA9),Brain,43,2,1,0
+Brain - Caudate (basal ganglia),Brain,44,2,1,0
+Brain - Hypothalamus,Brain,45,2,1,0
+Brain - Hypothalamus,Brain,46,2,1,0
+Brain - Hippocampus,Brain,47,2,1,0
+Brain - Amygdala,Brain,48,2,1,0
+Brain - Amygdala,Brain,49,2,1,0
+Brain - Amygdala,Brain,49,2,1,0
+Brain - Caudate (basal ganglia),Brain,49,2,1,0
+Brain - Hippocampus,Brain,49,2,1,0
+Brain - Hypothalamus,Brain,50,2,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,51,2,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,52,2,1,0
+Brain - Hippocampus,Brain,53,2,1,0
+Brain - Hypothalamus,Brain,54,2,1,0
+Brain - Nucleus accumbens (basal ganglia),Brain,55,2,1,0
+Brain - Substantia nigra,Brain,56,2,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,57,2,1,0
+Brain - Anterior cingulate cortex (BA24),Brain,58,2,1,0
+Brain - Frontal Cortex (BA9),Brain,59,3,1,0
+Brain - Spinal cord (cervical c-1),Brain,60,3,1,0
+Brain - Substantia nigra,Brain,61,3,1,0
+Brain - Substantia nigra,Brain,62,3,1,0
+Brain - Amygdala,Brain,63,3,1,0
+Brain - Hypothalamus,Brain,64,3,1,0
+Brain - Hypothalamus,Brain,65,3,1,0
+Brain - Spinal cord (cervical c-1),Brain,66,3,1,0
+Brain - Spinal cord (cervical c-1),Brain,67,3,1,0
+Brain - Hypothalamus,Brain,68,3,1,0
+Brain - Hypothalamus,Brain,69,3,1,0
+Brain - Putamen (basal ganglia),Brain,70,3,1,0
+Brain - Cerebellum,Brain,71,4,1,0
+Brain - Cerebellar Hemisphere,Brain,72,4,1,0
+Brain - Cerebellar Hemisphere,Brain,73,4,1,0
+Brain - Cerebellar Hemisphere,Brain,73,4,1,0
+Brain - Cerebellum,Brain,74,4,1,0
+Brain - Cerebellar Hemisphere,Brain,75,4,1,0
+Brain - Cerebellar Hemisphere,Brain,75,4,1,0
+Brain - Cerebellar Hemisphere,Brain,75,4,1,0
+Brain - Cerebellar Hemisphere,Brain,76,4,1,0
+Brain - Cerebellar Hemisphere,Brain,77,4,1,0
+Brain - Cerebellum,Brain,78,4,1,0
+Brain - Cerebellar Hemisphere,Brain,79,4,1,0
+Brain - Cerebellar Hemisphere,Brain,79,4,1,0
+Brain - Cerebellum,Brain,80,4,1,0
+Brain - Cerebellar Hemisphere,Brain,81,4,1,0
+Brain - Cerebellum,Brain,82,4,1,0
+Brain - Cerebellum,Brain,83,4,1,0
+Skin - Sun Exposed (Lower leg),Skin,84,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,85,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,86,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,87,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,88,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,89,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,90,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,91,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,92,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,93,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,94,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,95,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,96,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,97,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,98,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,99,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,100,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,101,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,102,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,103,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,104,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,105,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,106,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,107,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,108,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,109,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,110,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,111,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,112,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,113,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,114,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,115,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,116,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,117,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,118,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,119,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,120,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,121,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,122,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,123,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,124,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,125,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,126,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,127,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,128,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,129,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,130,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,131,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,132,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,133,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,134,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,135,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,136,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,137,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,138,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,139,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,140,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,141,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,142,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,143,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,144,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,145,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,146,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,147,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,148,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,149,5,2,0
+Skin - Sun Exposed (Lower leg),Skin,150,5,2,0
+Skin - Not Sun Exposed (Suprapubic),Skin,151,5,2,0
+Esophagus - Mucosa,Esophagus,152,6,2,0
+Esophagus - Mucosa,Esophagus,153,6,2,0
+Esophagus - Mucosa,Esophagus,154,6,2,0
+Esophagus - Mucosa,Esophagus,155,6,2,0
+Esophagus - Mucosa,Esophagus,156,6,2,0
+Esophagus - Mucosa,Esophagus,157,6,2,0
+Esophagus - Mucosa,Esophagus,158,6,2,0
+Esophagus - Mucosa,Esophagus,159,6,2,0
+Esophagus - Mucosa,Esophagus,160,6,2,0
+Esophagus - Mucosa,Esophagus,161,6,2,0
+Esophagus - Mucosa,Esophagus,162,6,2,0
+Esophagus - Mucosa,Esophagus,163,6,2,0
+Esophagus - Mucosa,Esophagus,164,6,2,0
+Esophagus - Mucosa,Esophagus,165,6,2,0
+Esophagus - Mucosa,Esophagus,166,6,2,0
+Esophagus - Mucosa,Esophagus,167,6,2,0
+Esophagus - Mucosa,Esophagus,168,6,2,0
+Esophagus - Mucosa,Esophagus,169,6,2,0
+Esophagus - Mucosa,Esophagus,170,6,2,0
+Esophagus - Mucosa,Esophagus,171,6,2,0
+Esophagus - Mucosa,Esophagus,172,6,2,0
+Esophagus - Mucosa,Esophagus,173,6,2,0
+Esophagus - Mucosa,Esophagus,174,6,2,0
+Esophagus - Mucosa,Esophagus,175,6,2,0
+Esophagus - Mucosa,Esophagus,176,6,2,0
+Esophagus - Mucosa,Esophagus,177,6,2,0
+Esophagus - Mucosa,Esophagus,178,6,2,0
+Esophagus - Mucosa,Esophagus,179,6,2,0
+Esophagus - Mucosa,Esophagus,180,6,2,0
+Esophagus - Mucosa,Esophagus,181,6,2,0
+Esophagus - Mucosa,Esophagus,182,6,2,0
+Esophagus - Mucosa,Esophagus,183,6,2,0
+Esophagus - Mucosa,Esophagus,184,6,2,0
+Esophagus - Mucosa,Esophagus,185,6,2,0
+Esophagus - Mucosa,Esophagus,186,6,2,0
+Esophagus - Mucosa,Esophagus,187,6,2,0
+Esophagus - Mucosa,Esophagus,188,6,2,0
+Esophagus - Mucosa,Esophagus,189,6,2,0
+Esophagus - Mucosa,Esophagus,190,6,2,0
+Esophagus - Mucosa,Esophagus,191,6,2,0
+Esophagus - Mucosa,Esophagus,192,6,2,0
+Colon - Transverse,Colon,193,7,2,0
+Colon - Sigmoid,Colon,194,7,2,0
+Colon - Transverse,Colon,195,7,2,0
+Colon - Transverse,Colon,196,7,2,0
+Colon - Transverse,Colon,197,7,2,0
+Colon - Transverse,Colon,198,7,2,0
+Colon - Transverse,Colon,199,7,2,0
+Colon - Transverse,Colon,200,7,2,0
+Colon - Transverse,Colon,201,7,2,0
+Colon - Transverse,Colon,202,7,2,0
+Colon - Transverse,Colon,203,7,2,0
+Colon - Transverse,Colon,204,7,2,0
+Colon - Transverse,Colon,205,7,2,0
+Colon - Transverse,Colon,206,7,2,0
+Colon - Transverse,Colon,207,7,2,0
+Colon - Transverse,Colon,208,7,2,0
+Colon - Transverse,Colon,209,7,2,0
+Colon - Sigmoid,Colon,210,7,2,0
+Colon - Transverse,Colon,211,7,2,0
+Colon - Transverse,Colon,212,7,2,0
+Colon - Transverse,Colon,213,7,2,0
+Colon - Transverse,Colon,214,7,2,0
+Colon - Transverse,Colon,215,7,2,0
+Colon - Transverse,Colon,216,7,2,0
+Colon - Transverse,Colon,217,7,2,0
+Colon - Transverse,Colon,218,7,2,0
+Colon - Transverse,Colon,219,7,2,0
+Colon - Sigmoid,Colon,220,7,2,0
+Colon - Transverse,Colon,221,7,2,0
+Colon - Sigmoid,Colon,222,7,2,0
+Colon - Transverse,Colon,223,7,2,0
+Colon - Transverse,Colon,224,7,2,0
+Colon - Sigmoid,Colon,225,7,2,0
+Colon - Transverse,Colon,226,7,2,0
+Colon - Transverse,Colon,227,7,2,0
+Colon - Transverse,Colon,228,7,2,0
+Colon - Transverse,Colon,229,7,2,0
+Cells - Cultured fibroblasts,Skin,230,8,3,0
+Cells - Cultured fibroblasts,Skin,231,8,3,0
+Cells - Cultured fibroblasts,Skin,232,8,3,0
+Cells - Cultured fibroblasts,Skin,233,8,3,0
+Cells - Cultured fibroblasts,Skin,234,8,3,0
+Cells - Cultured fibroblasts,Skin,235,8,3,0
+Cells - Cultured fibroblasts,Skin,236,8,3,0
+Cells - Cultured fibroblasts,Skin,237,8,3,0
+Cells - Cultured fibroblasts,Skin,238,8,3,0
+Cells - Cultured fibroblasts,Skin,239,8,3,0
+Cells - Cultured fibroblasts,Skin,240,8,3,0
+Cells - Cultured fibroblasts,Skin,241,8,3,0
+Cells - Cultured fibroblasts,Skin,242,8,3,0
+Cells - Cultured fibroblasts,Skin,242,8,3,0
+Cells - Cultured fibroblasts,Skin,243,8,3,0
+Cells - Cultured fibroblasts,Skin,244,8,3,0
+Cells - Cultured fibroblasts,Skin,245,8,3,0
+Cells - Cultured fibroblasts,Skin,246,8,3,0
+Cells - Cultured fibroblasts,Skin,247,8,3,0
+Cells - Cultured fibroblasts,Skin,248,8,3,0
+Cells - Cultured fibroblasts,Skin,249,8,3,0
+Cells - Cultured fibroblasts,Skin,250,8,3,0
+Cells - Cultured fibroblasts,Skin,251,8,3,0
+Cells - Cultured fibroblasts,Skin,252,8,3,0
+Cells - Cultured fibroblasts,Skin,253,8,3,0
+Cells - Cultured fibroblasts,Skin,254,8,3,0
+Cells - Cultured fibroblasts,Skin,255,8,3,0
+Cells - Cultured fibroblasts,Skin,256,8,3,0
+Cells - Cultured fibroblasts,Skin,257,8,3,0
+Cells - Cultured fibroblasts,Skin,258,8,3,0
+Cells - Cultured fibroblasts,Skin,259,8,3,0
+Cells - EBV-transformed lymphocytes,Blood,260,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,261,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,262,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,263,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,264,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,265,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,266,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,267,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,268,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,269,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,270,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,271,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,272,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,273,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,274,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,275,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,276,9,3,0
+Cells - EBV-transformed lymphocytes,Blood,277,9,3,0
+Skin - Sun Exposed (Lower leg),Skin,278,10,4,0
+Esophagus - Muscularis,Esophagus,279,10,4,0
+Artery - Coronary,Blood Vessel,280,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,281,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,282,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,283,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,284,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,285,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,286,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,287,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,288,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,289,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,290,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,291,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,292,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,293,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,294,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,295,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,296,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,297,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,298,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,299,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,300,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,301,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,302,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,303,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,304,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,305,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,306,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,307,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,308,10,4,0
+Adipose - Subcutaneous,Adipose Tissue,309,10,4,0
+Esophagus - Gastroesophageal Junction,Esophagus,310,11,4,0
+Artery - Coronary,Blood Vessel,311,11,4,0
+Artery - Aorta,Blood Vessel,312,11,4,0
+Artery - Coronary,Blood Vessel,313,11,4,0
+Artery - Coronary,Blood Vessel,314,11,4,0
+Artery - Coronary,Blood Vessel,315,11,4,0
+Artery - Coronary,Blood Vessel,316,11,4,0
+Artery - Tibial,Blood Vessel,317,11,4,0
+Artery - Coronary,Blood Vessel,318,11,4,0
+Artery - Aorta,Blood Vessel,319,11,4,0
+Artery - Coronary,Blood Vessel,320,11,4,0
+Artery - Coronary,Blood Vessel,321,11,4,0
+Artery - Tibial,Blood Vessel,322,11,4,0
+Artery - Coronary,Blood Vessel,323,11,4,0
+Artery - Aorta,Blood Vessel,324,11,4,0
+Artery - Coronary,Blood Vessel,325,11,4,0
+Artery - Tibial,Blood Vessel,326,11,4,0
+Artery - Coronary,Blood Vessel,327,11,4,0
+Adipose - Subcutaneous,Adipose Tissue,328,11,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,329,11,4,0
+Thyroid,Thyroid,330,11,4,0
+Artery - Aorta,Blood Vessel,331,12,4,0
+Artery - Coronary,Blood Vessel,332,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,333,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,334,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,335,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,336,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,337,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,338,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,339,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,340,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,341,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,342,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,343,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,344,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,345,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,346,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,347,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,348,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,349,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,350,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,351,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,352,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,353,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,354,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,355,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,356,12,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,357,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,358,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,359,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,360,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,361,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,362,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,363,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,364,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,365,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,366,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,367,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,368,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,369,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,370,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,371,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,372,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,373,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,374,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,375,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,376,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,377,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,378,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,379,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,380,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,381,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,382,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,383,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,384,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,385,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,386,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,387,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,388,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,389,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,390,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,391,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,392,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,393,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,394,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,395,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,396,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,397,13,4,0
+Adipose - Visceral (Omentum),Adipose Tissue,398,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,399,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,400,13,4,0
+Adipose - Subcutaneous,Adipose Tissue,401,13,4,0
+Esophagus - Gastroesophageal Junction,Esophagus,402,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,403,14,5,0
+Esophagus - Muscularis,Esophagus,404,14,5,0
+Esophagus - Muscularis,Esophagus,405,14,5,0
+Esophagus - Muscularis,Esophagus,406,14,5,0
+Esophagus - Muscularis,Esophagus,407,14,5,0
+Esophagus - Muscularis,Esophagus,408,14,5,0
+Esophagus - Muscularis,Esophagus,409,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,410,14,5,0
+Esophagus - Muscularis,Esophagus,411,14,5,0
+Esophagus - Muscularis,Esophagus,412,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,413,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,414,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,415,14,5,0
+Esophagus - Muscularis,Esophagus,416,14,5,0
+Esophagus - Muscularis,Esophagus,417,14,5,0
+Esophagus - Muscularis,Esophagus,418,14,5,0
+Esophagus - Muscularis,Esophagus,419,14,5,0
+Esophagus - Muscularis,Esophagus,420,14,5,0
+Esophagus - Muscularis,Esophagus,421,14,5,0
+Esophagus - Muscularis,Esophagus,422,14,5,0
+Esophagus - Muscularis,Esophagus,423,14,5,0
+Esophagus - Muscularis,Esophagus,424,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,425,14,5,0
+Esophagus - Muscularis,Esophagus,426,14,5,0
+Esophagus - Muscularis,Esophagus,427,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,428,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,429,14,5,0
+Esophagus - Muscularis,Esophagus,429,14,5,0
+Esophagus - Muscularis,Esophagus,430,14,5,0
+Esophagus - Muscularis,Esophagus,431,14,5,0
+Esophagus - Muscularis,Esophagus,432,14,5,0
+Esophagus - Muscularis,Esophagus,433,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,434,14,5,0
+Esophagus - Muscularis,Esophagus,435,14,5,0
+Esophagus - Muscularis,Esophagus,436,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,437,14,5,0
+Esophagus - Muscularis,Esophagus,438,14,5,0
+Esophagus - Muscularis,Esophagus,439,14,5,0
+Esophagus - Muscularis,Esophagus,440,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,441,14,5,0
+Esophagus - Muscularis,Esophagus,442,14,5,0
+Esophagus - Muscularis,Esophagus,443,14,5,0
+Esophagus - Muscularis,Esophagus,444,14,5,0
+Esophagus - Muscularis,Esophagus,445,14,5,0
+Esophagus - Muscularis,Esophagus,446,14,5,0
+Esophagus - Muscularis,Esophagus,447,14,5,0
+Esophagus - Muscularis,Esophagus,448,14,5,0
+Esophagus - Muscularis,Esophagus,449,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,450,14,5,0
+Esophagus - Muscularis,Esophagus,451,14,5,0
+Esophagus - Muscularis,Esophagus,452,14,5,0
+Esophagus - Muscularis,Esophagus,453,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,454,14,5,0
+Esophagus - Muscularis,Esophagus,455,14,5,0
+Esophagus - Gastroesophageal Junction,Esophagus,456,15,5,0
+Colon - Sigmoid,Colon,457,15,5,0
+Colon - Transverse,Colon,458,15,5,0
+Colon - Sigmoid,Colon,459,15,5,0
+Colon - Sigmoid,Colon,460,15,5,0
+Colon - Sigmoid,Colon,461,15,5,0
+Colon - Sigmoid,Colon,462,15,5,0
+Colon - Sigmoid,Colon,463,15,5,0
+Colon - Sigmoid,Colon,464,15,5,0
+Colon - Sigmoid,Colon,465,15,5,0
+Colon - Transverse,Colon,466,15,5,0
+Colon - Sigmoid,Colon,467,15,5,0
+Colon - Transverse,Colon,468,15,5,0
+Colon - Sigmoid,Colon,469,15,5,0
+Colon - Sigmoid,Colon,470,15,5,0
+Colon - Transverse,Colon,471,15,5,0
+Colon - Sigmoid,Colon,472,15,5,0
+Colon - Sigmoid,Colon,473,15,5,0
+Colon - Sigmoid,Colon,474,15,5,0
+Colon - Sigmoid,Colon,475,15,5,0
+Colon - Sigmoid,Colon,476,15,5,0
+Colon - Transverse,Colon,477,15,5,0
+Colon - Sigmoid,Colon,478,15,5,0
+Colon - Transverse,Colon,479,15,5,0
+Artery - Aorta,Blood Vessel,480,16,5,0
+Artery - Aorta,Blood Vessel,481,16,5,0
+Artery - Aorta,Blood Vessel,482,16,5,0
+Artery - Aorta,Blood Vessel,483,16,5,0
+Artery - Aorta,Blood Vessel,484,16,5,0
+Artery - Aorta,Blood Vessel,485,16,5,0
+Artery - Aorta,Blood Vessel,486,16,5,0
+Artery - Aorta,Blood Vessel,487,16,5,0
+Artery - Aorta,Blood Vessel,488,16,5,0
+Artery - Aorta,Blood Vessel,489,16,5,0
+Artery - Aorta,Blood Vessel,490,16,5,0
+Artery - Aorta,Blood Vessel,491,16,5,0
+Artery - Aorta,Blood Vessel,492,16,5,0
+Artery - Aorta,Blood Vessel,493,16,5,0
+Artery - Aorta,Blood Vessel,494,16,5,0
+Artery - Aorta,Blood Vessel,495,16,5,0
+Artery - Aorta,Blood Vessel,496,16,5,0
+Artery - Aorta,Blood Vessel,497,16,5,0
+Artery - Aorta,Blood Vessel,498,16,5,0
+Artery - Aorta,Blood Vessel,499,16,5,0
+Artery - Aorta,Blood Vessel,500,16,5,0
+Artery - Aorta,Blood Vessel,501,16,5,0
+Artery - Aorta,Blood Vessel,502,16,5,0
+Artery - Aorta,Blood Vessel,503,16,5,0
+Artery - Coronary,Blood Vessel,504,16,5,0
+Artery - Aorta,Blood Vessel,505,16,5,0
+Artery - Aorta,Blood Vessel,506,16,5,0
+Artery - Aorta,Blood Vessel,507,16,5,0
+Artery - Aorta,Blood Vessel,508,16,5,0
+Artery - Aorta,Blood Vessel,509,16,5,0
+Artery - Aorta,Blood Vessel,510,16,5,0
+Artery - Aorta,Blood Vessel,511,16,5,0
+Artery - Aorta,Blood Vessel,512,16,5,0
+Artery - Aorta,Blood Vessel,513,16,5,0
+Artery - Aorta,Blood Vessel,514,16,5,0
+Artery - Tibial,Blood Vessel,515,17,5,0
+Artery - Tibial,Blood Vessel,516,17,5,0
+Artery - Tibial,Blood Vessel,517,17,5,0
+Artery - Coronary,Blood Vessel,518,17,5,0
+Artery - Tibial,Blood Vessel,519,17,5,0
+Artery - Tibial,Blood Vessel,520,17,5,0
+Artery - Tibial,Blood Vessel,521,17,5,0
+Artery - Tibial,Blood Vessel,522,17,5,0
+Artery - Tibial,Blood Vessel,523,17,5,0
+Artery - Tibial,Blood Vessel,524,17,5,0
+Artery - Tibial,Blood Vessel,525,17,5,0
+Artery - Tibial,Blood Vessel,526,17,5,0
+Artery - Tibial,Blood Vessel,527,17,5,0
+Artery - Tibial,Blood Vessel,528,17,5,0
+Artery - Tibial,Blood Vessel,529,17,5,0
+Artery - Tibial,Blood Vessel,530,17,5,0
+Artery - Tibial,Blood Vessel,531,17,5,0
+Artery - Tibial,Blood Vessel,532,17,5,0
+Artery - Tibial,Blood Vessel,533,17,5,0
+Artery - Tibial,Blood Vessel,534,17,5,0
+Artery - Tibial,Blood Vessel,535,17,5,0
+Artery - Tibial,Blood Vessel,536,17,5,0
+Artery - Tibial,Blood Vessel,537,17,5,0
+Artery - Tibial,Blood Vessel,538,17,5,0
+Artery - Tibial,Blood Vessel,539,17,5,0
+Artery - Tibial,Blood Vessel,540,17,5,0
+Artery - Coronary,Blood Vessel,541,17,5,0
+Artery - Tibial,Blood Vessel,542,17,5,0
+Artery - Tibial,Blood Vessel,543,17,5,0
+Artery - Tibial,Blood Vessel,544,17,5,0
+Artery - Tibial,Blood Vessel,545,17,5,0
+Artery - Tibial,Blood Vessel,546,17,5,0
+Artery - Tibial,Blood Vessel,547,17,5,0
+Artery - Tibial,Blood Vessel,548,17,5,0
+Artery - Tibial,Blood Vessel,549,17,5,0
+Artery - Tibial,Blood Vessel,550,17,5,0
+Artery - Tibial,Blood Vessel,551,17,5,0
+Artery - Tibial,Blood Vessel,552,17,5,0
+Artery - Tibial,Blood Vessel,553,17,5,0
+Artery - Tibial,Blood Vessel,554,17,5,0
+Artery - Tibial,Blood Vessel,555,17,5,0
+Artery - Tibial,Blood Vessel,556,17,5,0
+Artery - Coronary,Blood Vessel,557,17,5,0
+Colon - Sigmoid,Colon,558,18,5,0
+Colon - Sigmoid,Colon,559,18,5,0
+Colon - Sigmoid,Colon,560,18,5,0
+Colon - Sigmoid,Colon,561,18,5,0
+Colon - Transverse,Colon,562,18,5,0
+Colon - Sigmoid,Colon,563,18,5,0
+Colon - Sigmoid,Colon,564,18,5,0
+Colon - Sigmoid,Colon,565,18,5,0
+Colon - Sigmoid,Colon,566,18,5,0
+Colon - Sigmoid,Colon,567,18,5,0
+Colon - Sigmoid,Colon,568,18,5,0
+Colon - Sigmoid,Colon,569,18,5,0
+Colon - Sigmoid,Colon,570,18,5,0
+Colon - Sigmoid,Colon,571,18,5,0
+Colon - Sigmoid,Colon,572,18,5,0
+Colon - Sigmoid,Colon,573,18,5,0
+Colon - Sigmoid,Colon,574,18,5,0
+Colon - Sigmoid,Colon,575,18,5,0
+Colon - Sigmoid,Colon,576,18,5,0
+Colon - Sigmoid,Colon,577,18,5,0
+Colon - Transverse,Colon,578,18,5,0
+Colon - Sigmoid,Colon,579,18,5,0
+Colon - Sigmoid,Colon,580,18,5,0
+Colon - Sigmoid,Colon,581,18,5,0
+Colon - Sigmoid,Colon,582,18,5,0
+Colon - Transverse,Colon,583,18,5,0
+Colon - Sigmoid,Colon,584,18,5,0
+Colon - Transverse,Colon,585,18,5,0
+Colon - Sigmoid,Colon,586,18,5,0
+Colon - Sigmoid,Colon,587,18,5,0
+Colon - Sigmoid,Colon,588,18,5,0
+Colon - Sigmoid,Colon,589,18,5,0
+Colon - Sigmoid,Colon,590,18,5,0
+Colon - Sigmoid,Colon,591,18,5,0
+Colon - Sigmoid,Colon,592,18,5,0
+Colon - Sigmoid,Colon,593,18,5,0
+Colon - Transverse,Colon,594,18,5,0
+Colon - Sigmoid,Colon,595,18,5,0
+Colon - Sigmoid,Colon,596,18,5,0
+Colon - Sigmoid,Colon,597,18,5,0
+Esophagus - Muscularis,Esophagus,598,19,6,0
+Artery - Coronary,Blood Vessel,599,19,6,0
+Heart - Atrial Appendage,Heart,600,19,6,0
+Heart - Atrial Appendage,Heart,601,19,6,0
+Heart - Atrial Appendage,Heart,602,19,6,0
+Heart - Atrial Appendage,Heart,603,19,6,0
+Heart - Atrial Appendage,Heart,604,19,6,0
+Heart - Atrial Appendage,Heart,605,19,6,0
+Heart - Atrial Appendage,Heart,606,19,6,0
+Heart - Atrial Appendage,Heart,607,19,6,0
+Heart - Atrial Appendage,Heart,608,19,6,0
+Heart - Atrial Appendage,Heart,609,19,6,0
+Heart - Atrial Appendage,Heart,610,19,6,0
+Heart - Atrial Appendage,Heart,611,19,6,0
+Heart - Atrial Appendage,Heart,612,19,6,0
+Heart - Atrial Appendage,Heart,613,19,6,0
+Heart - Atrial Appendage,Heart,614,19,6,0
+Heart - Atrial Appendage,Heart,615,19,6,0
+Heart - Left Ventricle,Heart,616,19,6,0
+Heart - Atrial Appendage,Heart,617,19,6,0
+Heart - Atrial Appendage,Heart,618,19,6,0
+Heart - Left Ventricle,Heart,619,19,6,0
+Heart - Atrial Appendage,Heart,620,19,6,0
+Artery - Coronary,Blood Vessel,621,20,6,0
+Heart - Atrial Appendage,Heart,622,20,6,0
+Muscle - Skeletal,Muscle,623,20,6,0
+Thyroid,Thyroid,624,20,6,0
+Heart - Atrial Appendage,Heart,625,21,6,0
+Heart - Atrial Appendage,Heart,626,21,6,0
+Heart - Atrial Appendage,Heart,627,21,6,0
+Heart - Atrial Appendage,Heart,628,21,6,0
+Heart - Atrial Appendage,Heart,629,21,6,0
+Heart - Atrial Appendage,Heart,630,21,6,0
+Heart - Atrial Appendage,Heart,631,21,6,0
+Heart - Atrial Appendage,Heart,632,21,6,0
+Heart - Atrial Appendage,Heart,633,21,6,0
+Heart - Atrial Appendage,Heart,634,21,6,0
+Heart - Atrial Appendage,Heart,635,21,6,0
+Heart - Atrial Appendage,Heart,636,21,6,0
+Heart - Atrial Appendage,Heart,637,21,6,0
+Heart - Atrial Appendage,Heart,638,21,6,0
+Heart - Atrial Appendage,Heart,639,21,6,0
+Heart - Atrial Appendage,Heart,640,21,6,0
+Heart - Atrial Appendage,Heart,641,21,6,0
+Heart - Atrial Appendage,Heart,642,21,6,0
+Heart - Atrial Appendage,Heart,643,21,6,0
+Heart - Atrial Appendage,Heart,644,21,6,0
+Heart - Atrial Appendage,Heart,645,21,6,0
+Heart - Atrial Appendage,Heart,646,21,6,0
+Heart - Atrial Appendage,Heart,647,21,6,0
+Heart - Atrial Appendage,Heart,648,21,6,0
+Heart - Atrial Appendage,Heart,649,21,6,0
+Heart - Atrial Appendage,Heart,650,21,6,0
+Heart - Atrial Appendage,Heart,651,21,6,0
+Heart - Atrial Appendage,Heart,652,21,6,0
+Heart - Atrial Appendage,Heart,653,21,6,0
+Heart - Atrial Appendage,Heart,654,21,6,0
+Heart - Atrial Appendage,Heart,655,21,6,0
+Heart - Atrial Appendage,Heart,656,21,6,0
+Heart - Atrial Appendage,Heart,657,21,6,0
+Heart - Atrial Appendage,Heart,658,21,6,0
+Heart - Atrial Appendage,Heart,659,21,6,0
+Heart - Atrial Appendage,Heart,660,21,6,0
+Heart - Atrial Appendage,Heart,661,21,6,0
+Heart - Atrial Appendage,Heart,662,21,6,0
+Heart - Atrial Appendage,Heart,663,21,6,0
+Heart - Left Ventricle,Heart,664,22,6,0
+Heart - Left Ventricle,Heart,665,22,6,0
+Heart - Left Ventricle,Heart,665,22,6,0
+Heart - Left Ventricle,Heart,666,22,6,0
+Heart - Left Ventricle,Heart,667,22,6,0
+Heart - Left Ventricle,Heart,668,22,6,0
+Heart - Left Ventricle,Heart,669,22,6,0
+Heart - Left Ventricle,Heart,670,22,6,0
+Heart - Left Ventricle,Heart,671,22,6,0
+Heart - Left Ventricle,Heart,672,22,6,0
+Heart - Left Ventricle,Heart,673,22,6,0
+Heart - Left Ventricle,Heart,673,22,6,0
+Heart - Left Ventricle,Heart,674,22,6,0
+Heart - Left Ventricle,Heart,675,22,6,0
+Heart - Left Ventricle,Heart,676,22,6,0
+Heart - Left Ventricle,Heart,677,22,6,0
+Heart - Left Ventricle,Heart,678,22,6,0
+Heart - Left Ventricle,Heart,679,22,6,0
+Heart - Left Ventricle,Heart,679,22,6,0
+Heart - Left Ventricle,Heart,680,22,6,0
+Heart - Left Ventricle,Heart,681,22,6,0
+Heart - Left Ventricle,Heart,682,22,6,0
+Heart - Left Ventricle,Heart,683,22,6,0
+Heart - Left Ventricle,Heart,684,22,6,0
+Heart - Left Ventricle,Heart,685,22,6,0
+Heart - Left Ventricle,Heart,686,22,6,0
+Heart - Left Ventricle,Heart,687,22,6,0
+Heart - Left Ventricle,Heart,688,22,6,0
+Heart - Left Ventricle,Heart,689,22,6,0
+Heart - Left Ventricle,Heart,690,22,6,0
+Heart - Atrial Appendage,Heart,691,22,6,0
+Heart - Left Ventricle,Heart,692,22,6,0
+Heart - Left Ventricle,Heart,693,22,6,0
+Heart - Left Ventricle,Heart,694,22,6,0
+Heart - Left Ventricle,Heart,695,22,6,0
+Heart - Left Ventricle,Heart,696,22,6,0
+Heart - Left Ventricle,Heart,697,22,6,0
+Heart - Left Ventricle,Heart,698,22,6,0
+Heart - Left Ventricle,Heart,699,22,6,0
+Muscle - Skeletal,Muscle,700,23,6,0
+Muscle - Skeletal,Muscle,701,23,6,0
+Muscle - Skeletal,Muscle,702,23,6,0
+Muscle - Skeletal,Muscle,703,23,6,0
+Muscle - Skeletal,Muscle,704,23,6,0
+Muscle - Skeletal,Muscle,705,23,6,0
+Muscle - Skeletal,Muscle,706,23,6,0
+Muscle - Skeletal,Muscle,707,23,6,0
+Muscle - Skeletal,Muscle,708,23,6,0
+Muscle - Skeletal,Muscle,709,23,6,0
+Muscle - Skeletal,Muscle,710,23,6,0
+Muscle - Skeletal,Muscle,711,23,6,0
+Muscle - Skeletal,Muscle,712,23,6,0
+Muscle - Skeletal,Muscle,713,23,6,0
+Muscle - Skeletal,Muscle,714,23,6,0
+Muscle - Skeletal,Muscle,715,23,6,0
+Muscle - Skeletal,Muscle,716,23,6,0
+Muscle - Skeletal,Muscle,717,23,6,0
+Muscle - Skeletal,Muscle,718,23,6,0
+Muscle - Skeletal,Muscle,719,23,6,0
+Muscle - Skeletal,Muscle,720,23,6,0
+Muscle - Skeletal,Muscle,721,23,6,0
+Muscle - Skeletal,Muscle,722,23,6,0
+Muscle - Skeletal,Muscle,723,23,6,0
+Muscle - Skeletal,Muscle,724,23,6,0
+Muscle - Skeletal,Muscle,725,23,6,0
+Muscle - Skeletal,Muscle,726,23,6,0
+Muscle - Skeletal,Muscle,727,23,6,0
+Muscle - Skeletal,Muscle,728,23,6,0
+Muscle - Skeletal,Muscle,729,23,6,0
+Muscle - Skeletal,Muscle,730,23,6,0
+Muscle - Skeletal,Muscle,731,23,6,0
+Muscle - Skeletal,Muscle,732,23,6,0
+Muscle - Skeletal,Muscle,733,23,6,0
+Muscle - Skeletal,Muscle,734,23,6,0
+Muscle - Skeletal,Muscle,735,23,6,0
+Muscle - Skeletal,Muscle,736,23,6,0
+Muscle - Skeletal,Muscle,737,23,6,0
+Muscle - Skeletal,Muscle,738,23,6,0
+Muscle - Skeletal,Muscle,739,23,6,0
+Muscle - Skeletal,Muscle,740,23,6,0
+Muscle - Skeletal,Muscle,741,23,6,0
+Muscle - Skeletal,Muscle,742,23,6,0
+Muscle - Skeletal,Muscle,743,23,6,0
+Muscle - Skeletal,Muscle,744,23,6,0
+Muscle - Skeletal,Muscle,745,23,6,0
+Muscle - Skeletal,Muscle,746,23,6,0
+Muscle - Skeletal,Muscle,747,23,6,0
+Muscle - Skeletal,Muscle,748,23,6,0
+Muscle - Skeletal,Muscle,749,23,6,0
+Muscle - Skeletal,Muscle,750,23,6,0
+Muscle - Skeletal,Muscle,751,23,6,0
+Muscle - Skeletal,Muscle,752,23,6,0
+Muscle - Skeletal,Muscle,753,23,6,0
+Muscle - Skeletal,Muscle,754,23,6,0
+Muscle - Skeletal,Muscle,755,23,6,0
+Muscle - Skeletal,Muscle,756,23,6,0
+Muscle - Skeletal,Muscle,757,23,6,0
+Muscle - Skeletal,Muscle,758,23,6,0
+Muscle - Skeletal,Muscle,759,23,6,0
+Muscle - Skeletal,Muscle,760,23,6,0
+Muscle - Skeletal,Muscle,761,23,6,0
+Muscle - Skeletal,Muscle,762,23,6,0
+Muscle - Skeletal,Muscle,763,23,6,0
+Muscle - Skeletal,Muscle,764,23,6,0
+Muscle - Skeletal,Muscle,765,23,6,0
+Muscle - Skeletal,Muscle,766,23,6,0
+Muscle - Skeletal,Muscle,767,23,6,0
+Muscle - Skeletal,Muscle,768,23,6,0
+Muscle - Skeletal,Muscle,769,23,6,0
+Muscle - Skeletal,Muscle,770,23,6,0
+Muscle - Skeletal,Muscle,771,23,6,0
+Muscle - Skeletal,Muscle,772,23,6,0
+Muscle - Skeletal,Muscle,773,24,6,0
+Muscle - Skeletal,Muscle,774,24,6,0
+Muscle - Skeletal,Muscle,775,24,6,0
+Muscle - Skeletal,Muscle,776,24,6,0
+Muscle - Skeletal,Muscle,777,24,6,0
+Muscle - Skeletal,Muscle,778,24,6,0
+Muscle - Skeletal,Muscle,779,24,6,0
+Muscle - Skeletal,Muscle,780,24,6,0
+Muscle - Skeletal,Muscle,781,24,6,0
+Muscle - Skeletal,Muscle,782,24,6,0
+Muscle - Skeletal,Muscle,783,24,6,0
+Muscle - Skeletal,Muscle,784,24,6,0
+Muscle - Skeletal,Muscle,785,24,6,0
+Muscle - Skeletal,Muscle,786,24,6,0
+Muscle - Skeletal,Muscle,787,24,6,0
+Muscle - Skeletal,Muscle,788,24,6,0
+Muscle - Skeletal,Muscle,789,24,6,0
+Muscle - Skeletal,Muscle,790,24,6,0
+Muscle - Skeletal,Muscle,791,24,6,0
+Muscle - Skeletal,Muscle,792,24,6,0
+Muscle - Skeletal,Muscle,793,24,6,0
+Muscle - Skeletal,Muscle,794,24,6,0
+Muscle - Skeletal,Muscle,795,24,6,0
+Muscle - Skeletal,Muscle,796,24,6,0
+Muscle - Skeletal,Muscle,797,24,6,0
+Muscle - Skeletal,Muscle,798,24,6,0
+Whole Blood,Blood,799,25,7,0
+Whole Blood,Blood,800,25,7,0
+Whole Blood,Blood,801,25,7,0
+Whole Blood,Blood,802,25,7,0
+Whole Blood,Blood,803,25,7,0
+Whole Blood,Blood,804,25,7,0
+Whole Blood,Blood,805,25,7,0
+Whole Blood,Blood,806,25,7,0
+Whole Blood,Blood,807,25,7,0
+Whole Blood,Blood,808,25,7,0
+Whole Blood,Blood,809,25,7,0
+Whole Blood,Blood,810,25,7,0
+Whole Blood,Blood,811,25,7,0
+Whole Blood,Blood,812,25,7,0
+Whole Blood,Blood,813,25,7,0
+Whole Blood,Blood,814,25,7,0
+Whole Blood,Blood,815,25,7,0
+Whole Blood,Blood,816,25,7,0
+Whole Blood,Blood,817,25,7,0
+Whole Blood,Blood,818,25,7,0
+Whole Blood,Blood,819,25,7,0
+Whole Blood,Blood,820,25,7,0
+Whole Blood,Blood,821,25,7,0
+Whole Blood,Blood,822,25,7,0
+Whole Blood,Blood,823,25,7,0
+Whole Blood,Blood,824,25,7,0
+Whole Blood,Blood,825,25,7,0
+Whole Blood,Blood,826,25,7,0
+Whole Blood,Blood,827,25,7,0
+Whole Blood,Blood,828,25,7,0
+Whole Blood,Blood,829,25,7,0
+Whole Blood,Blood,830,26,7,0
+Whole Blood,Blood,831,26,7,0
+Whole Blood,Blood,832,26,7,0
+Whole Blood,Blood,833,26,7,0
+Whole Blood,Blood,834,26,7,0
+Whole Blood,Blood,835,26,7,0
+Whole Blood,Blood,836,26,7,0
+Whole Blood,Blood,837,26,7,0
+Whole Blood,Blood,838,26,7,0
+Whole Blood,Blood,839,26,7,0
+Whole Blood,Blood,840,26,7,0
+Whole Blood,Blood,841,26,7,0
+Whole Blood,Blood,842,26,7,0
+Whole Blood,Blood,843,26,7,0
+Whole Blood,Blood,844,26,7,0
+Whole Blood,Blood,845,26,7,0
+Whole Blood,Blood,846,26,7,0
+Whole Blood,Blood,847,26,7,0
+Whole Blood,Blood,848,26,7,0
+Whole Blood,Blood,849,27,7,0
+Whole Blood,Blood,850,27,7,0
+Whole Blood,Blood,851,27,7,0
+Whole Blood,Blood,852,27,7,0
+Whole Blood,Blood,853,27,7,0
+Whole Blood,Blood,854,27,7,0
+Whole Blood,Blood,855,27,7,0
+Whole Blood,Blood,856,27,7,0
+Whole Blood,Blood,857,27,7,0
+Whole Blood,Blood,858,27,7,0
+Whole Blood,Blood,859,27,7,0
+Whole Blood,Blood,860,27,7,0
+Whole Blood,Blood,861,27,7,0
+Whole Blood,Blood,862,27,7,0
+Whole Blood,Blood,863,27,7,0
+Whole Blood,Blood,864,27,7,0
+Whole Blood,Blood,865,27,7,0
+Whole Blood,Blood,866,27,7,0
+Whole Blood,Blood,867,27,7,0
+Whole Blood,Blood,868,27,7,0
+Whole Blood,Blood,869,27,7,0
+Whole Blood,Blood,870,27,7,0
+Whole Blood,Blood,871,27,7,0
+Whole Blood,Blood,872,27,7,0
+Whole Blood,Blood,873,27,7,0
+Whole Blood,Blood,874,27,7,0
+Whole Blood,Blood,875,27,7,0
+Whole Blood,Blood,876,27,7,0
+Whole Blood,Blood,877,27,7,0
+Whole Blood,Blood,878,27,7,0
+Whole Blood,Blood,879,27,7,0
+Whole Blood,Blood,880,27,7,0
+Thyroid,Thyroid,881,28,8,0
+Thyroid,Thyroid,882,28,8,0
+Thyroid,Thyroid,883,28,8,0
+Thyroid,Thyroid,884,28,8,0
+Thyroid,Thyroid,885,28,8,0
+Thyroid,Thyroid,886,28,8,0
+Thyroid,Thyroid,887,28,8,0
+Thyroid,Thyroid,888,28,8,0
+Thyroid,Thyroid,889,28,8,0
+Thyroid,Thyroid,890,28,8,0
+Thyroid,Thyroid,891,28,8,0
+Thyroid,Thyroid,892,28,8,0
+Thyroid,Thyroid,893,28,8,0
+Thyroid,Thyroid,894,28,8,0
+Thyroid,Thyroid,895,28,8,0
+Thyroid,Thyroid,896,28,8,0
+Thyroid,Thyroid,897,28,8,0
+Thyroid,Thyroid,898,28,8,0
+Thyroid,Thyroid,899,28,8,0
+Thyroid,Thyroid,900,28,8,0
+Thyroid,Thyroid,901,28,8,0
+Thyroid,Thyroid,902,28,8,0
+Thyroid,Thyroid,903,28,8,0
+Thyroid,Thyroid,904,28,8,0
+Thyroid,Thyroid,905,28,8,0
+Thyroid,Thyroid,906,28,8,0
+Thyroid,Thyroid,907,28,8,0
+Thyroid,Thyroid,908,28,8,0
+Thyroid,Thyroid,909,28,8,0
+Thyroid,Thyroid,910,28,8,0
+Thyroid,Thyroid,911,28,8,0
+Thyroid,Thyroid,912,28,8,0
+Thyroid,Thyroid,913,28,8,0
+Thyroid,Thyroid,914,28,8,0
+Thyroid,Thyroid,915,28,8,0
+Thyroid,Thyroid,916,28,8,0
+Thyroid,Thyroid,917,28,8,0
+Thyroid,Thyroid,918,28,8,0
+Thyroid,Thyroid,919,28,8,0
+Thyroid,Thyroid,920,28,8,0
+Thyroid,Thyroid,921,28,8,0
+Thyroid,Thyroid,922,28,8,0
+Thyroid,Thyroid,923,28,8,0
+Thyroid,Thyroid,924,28,8,0
+Thyroid,Thyroid,925,28,8,0
+Thyroid,Thyroid,926,28,8,0
+Thyroid,Thyroid,927,28,8,0
+Thyroid,Thyroid,928,28,8,0
+Thyroid,Thyroid,929,28,8,0
+Thyroid,Thyroid,930,28,8,0
+Thyroid,Thyroid,931,28,8,0
+Thyroid,Thyroid,932,28,8,0
+Thyroid,Thyroid,933,28,8,0
+Thyroid,Thyroid,934,28,8,0
+Thyroid,Thyroid,935,28,8,0
+Thyroid,Thyroid,936,29,8,0
+Thyroid,Thyroid,937,29,8,0
+Thyroid,Thyroid,938,29,8,0
+Thyroid,Thyroid,939,29,8,0
+Thyroid,Thyroid,940,29,8,0
+Thyroid,Thyroid,941,29,8,0
+Thyroid,Thyroid,942,29,8,0
+Thyroid,Thyroid,943,29,8,0
+Thyroid,Thyroid,944,29,8,0
+Thyroid,Thyroid,945,29,8,0
+Thyroid,Thyroid,946,29,8,0
+Thyroid,Thyroid,947,29,8,0
+Thyroid,Thyroid,948,29,8,0
+Thyroid,Thyroid,949,29,8,0
+Thyroid,Thyroid,950,29,8,0
+Thyroid,Thyroid,951,29,8,0
+Thyroid,Thyroid,952,29,8,0
+Thyroid,Thyroid,953,29,8,0
+Thyroid,Thyroid,954,29,8,0
+Thyroid,Thyroid,955,29,8,0
+Thyroid,Thyroid,956,29,8,0
+Thyroid,Thyroid,957,29,8,0
+Thyroid,Thyroid,958,29,8,0
+Thyroid,Thyroid,959,29,8,0
+Thyroid,Thyroid,960,29,8,0
+Thyroid,Thyroid,961,29,8,0
+Thyroid,Thyroid,962,29,8,0
+Thyroid,Thyroid,963,29,8,0
+Thyroid,Thyroid,964,29,8,0
+Thyroid,Thyroid,965,29,8,0
+Thyroid,Thyroid,966,29,8,0
+Thyroid,Thyroid,967,29,8,0
+Thyroid,Thyroid,968,29,8,0
+Thyroid,Thyroid,969,29,8,0
+Thyroid,Thyroid,970,29,8,0
+Thyroid,Thyroid,971,29,8,0
+Thyroid,Thyroid,972,29,8,0
+Thyroid,Thyroid,973,29,8,0
+Thyroid,Thyroid,974,29,8,0
+Thyroid,Thyroid,975,29,8,0
+Thyroid,Thyroid,976,29,8,0
+Thyroid,Thyroid,977,29,8,0
+Thyroid,Thyroid,978,29,8,0

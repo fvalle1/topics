@@ -127,3 +127,32 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+*.pdf
+*/.DS_Store
+*/Enrichr/*
+*.png
+*.tsv
+setup.py
+test.py
+*.err
+*.done
+*.svg
+*.pkl
+*.txt
+*.part
+pkg/
+*.zip
+datasets/gtex10/topsbm-log10/mainTable.csv
+datasets/gtexhk/mainTable.csv
+datasets/gtexrandom/mainTable.csv
+datasets/gtex10/mainTable.csv
+datasets/gtexall/mainTable.csv
+/HK_exons.xlsx
+.RData
+.Rhistory
+.vscode
+/models
+random/
+
+unified/files_shuffles.dat

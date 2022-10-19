@@ -1,0 +1,10 @@
+version: '2'
+services:
+  topicmodel:
+    build: .
+    image: docker.pkg.github.com/fvalle1/topics/topicmodel:latest
+    ports:
+    - 8888:8888
+    volumes:
+    - .:/home/jovyan/work
+    working_dir: /home/jovyan/work
