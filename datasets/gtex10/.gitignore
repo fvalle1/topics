@@ -1,1 +1,4 @@
 /wgcna-block.1.RData
+*.csv
+*.tsv
+files_shuffle.dat
