@@ -1,4 +1,4 @@
-scipy==1.9.3
+scipy==1.10.0
 numpy
 gobject
 matplotlib
