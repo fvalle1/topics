@@ -1,0 +1,9 @@
+*.zip
+*.txt
+*.csv
+*.xlsx
+*.net
+*.tree
+new/
+*.tar.gz
+*.RData
