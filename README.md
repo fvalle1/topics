@@ -15,11 +15,6 @@ You can enable *jupyter lab* with *docker-compose*
 docker-compose up -d
 ```
 
-or you can pull the docker image
-```bash
-docker run -v $PWD:/home/jovyan/work -p 8888:8888 --rm -it --name topic_models docker.pkg.github.com/fvalle1/topics/topicmodel:latest
-```
-
 then point your browser to [localhost](http://localhost:8888)
 
 
