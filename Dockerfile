@@ -22,10 +22,10 @@ RUN conda install -c conda-forge mamba -y
 RUN mamba install -c conda-forge graph-tool -y 
 
 # install project requirements
-COPY requirements.txt /home/jovyan
+COPY requirements.txt /home/jovyan/requirements.txt
 
 RUN apt-get install libgtk-3-dev libjs-mathjax pandoc --yes
-RUN python3 -m pip install --no-cache-dir -r requirements.txt
+RUN python3 -m pip install --no-cache-dir -r /home/jovyan/requirements.txt
 RUN python3 -m pip uninstall Pillow -y
 RUN python3 -m pip install --no-cache-dir matplotlib
 
