@@ -2,7 +2,7 @@
 
 # Clone this repo
 ```bash
-git clone https://github.com/fvalle1/topics
+git clone https://github.com/Biophys-Turin/topics
 ```
 
 ## Get data from GTex and run hSBM
@@ -147,3 +147,15 @@ That Notebook was run on Colab, the results are at:
 - predicting **all primary sites** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15zFmuDNSHkorUaIymIH8P5PtUbFq5XaF/view?usp=sharing)
 
 (You may need to click *Open in colaboratory*)
+
+# Single cell
+In a revised version of this work we introduced a single-cell pipeline.
+
+## Dataset
+All the necessary data can be downloaded from https://figshare.com/articles/dataset/MCA_DGE_Data/5435866
+
+## Run
+The notebbok [single_cell.ipynb](single_cell.ipynb) provides the necessary steps to run all the models
+
+## Scoring
+In the notebook [scoring.ipynb](datasets/single-cell/scoring.ipynb) we provide all the necessary steps to reproduce the additional figures.

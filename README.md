@@ -1,9 +1,9 @@
 ![Docker Image CI](https://github.com/fvalle1/topics/workflows/Docker%20Image%20CI/badge.svg)
 
-# topics
-Material for ** [link](arxiv.org/)
+# Exploring the latent space of transcriptomic data with topic modeling
+Material for [*Exploring the latent space of transcriptomic data with topic modeling*](https://www.biorxiv.org/content/10.1101/2024.10.31.621233v1)
 
-See **[analyses](analyses.md)** to follow all the steps to reproduce the analyses
+See **[analyses](analyses.md)** for a detailed description of all the steps to reproduce the analyses
 
 ![bipartite_network](bipartite_network.png)
 
@@ -15,22 +15,11 @@ You can enable *jupyter lab* with *docker-compose*
 docker-compose up -d
 ```
 
-or you can pull the docker image
-```bash
-docker run -v $PWD:/home/jovyan/work -p 8888:8888 --rm -it --name topic_models docker.pkg.github.com/fvalle1/topics/topicmodel:latest
-```
+then point your browser to [localhost](http://localhost:8888)
 
-then point your browser to [localhost](localhost:8888)
-
-# Data
-The data processed in our analysis when not available trough git ca ìn be accessed via [DataVersionControl](https://dvc.org)
-```bash
-dvc pull
-```
 
 # Package
-A Python package with used functions can be downloaded from [https://test.pypi.org/project/topicpy/](https://test.pypi.org/project/topicpy/)
+A Python package with used functions can be downloaded from [https://pypi.org/project/topicpy/](https://pypi.org/project/topicpy/)
 ```bash
-pip install -i https://test.pypi.org/simple/ topicpy
+pip install topicpy
 ```
-This package is still in beta
