@@ -1,4 +1,4 @@
-![Docker Image CI](https://github.com/fvalle1/topics/workflows/Docker%20Image%20CI/badge.svg)
+[![Docker Image CI](https://github.com/BioPhys-Turin/topics/actions/workflows/docker-image.yml/badge.svg)](https://github.com/BioPhys-Turin/topics/actions/workflows/docker-image.yml)
 
 # Exploring the latent space of transcriptomic data with topic modeling
 Material for [*Exploring the latent space of transcriptomic data with topic modeling*](https://www.biorxiv.org/content/10.1101/2024.10.31.621233v1)
