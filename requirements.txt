@@ -12,6 +12,6 @@ tensorflow
 tensorflow_probability
 watermark
 gseapy
-sklearn
+scikit-learn
 seaborn
 topicpy
